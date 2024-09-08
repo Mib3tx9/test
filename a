@@ -1,2 +1,5 @@
-#EXTINF:-1 group-title="TV"tvg-logo="",Discovery
+#EXTINF:-1 group-title=""tvg-logo="",Discovery
 https://cdn1-freeiptv25.vercel.app/m3u/discoverybengali.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Disney_Channel_2014_HD.png" group-title="", Disney HD
+http://xtv.ooo:8080/live/98267/02727/167551.ts  
